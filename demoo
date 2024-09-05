@@ -1,1 +1,38 @@
-test.txt
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Events</title>
+        <link rel="icon" href="img/date.png">
+    </head>
+    <body bgcolor="black" style="color: white;">
+        <center>
+            <h1>UPCOMING EVENTS📅</h1>
+            <p>Don't miss out any of your important events. Here are the events you registered for !</p>
+        </center>
+        <hr>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Error nulla eaque quidem sunt soluta eius dolores deleniti, odit atque natus molestias quasi minima architecto animi dolore magni. Voluptates hic amet velit maiores similique autem nihil vero rerum. Doloremque perspiciatis alias rerum eum corrupti, non mollitia! Itaque officiis tenetur saepe sapiente, corrupti repellat similique nam dignissimos voluptatum asperiores maiores a voluptates commodi deserunt. Doloribus ab ducimus iusto rerum vel dolores quisquam vero nulla est impedit consequuntur obcaecati numquam reiciendis cum nam ipsam odit, alias error itaque minima nisi atque. Illum tempora odio delectus aspernatur, nulla ratione rerum porro facilis veritatis nihil.
+        </p>
+        <center>
+            <img src="img/event1.png">
+            <h1>Photo Gallery Event</h1>
+            <h2>Free Entry | Free Food | Pets Not Allowed</h2>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem explicabo sed alias. Quos illo modi architecto reiciendis exercitationem repellendus nihil minus pariatur perspiciatis cupiditate quas possimus, at recusandae natus similique numquam iste, eos quisquam. Officiis adipisci temporibus nobis nulla maxime magni, vero ad, ex iusto expedita rem, cum veritatis beatae.</p>
+        </center>
+        <center>
+            <img src="img/event2.png">
+            <h1>
+                <a href="https://www.myntra.com/">Fasion Store</a>
+            </h1>
+            <h2>Free Entry | Free Food | Pets Not Allowed</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga officiis temporibus explicabo praesentium nisi earum consectetur, quidem voluptatem aut quasi veniam nemo architecto possimus ducimus, exercitationem magnam perspiciatis, suscipit minima! Ex dolorem libero consectetur necessitatibus tenetur soluta veniam beatae magnam doloribus reprehenderit, est voluptatibus inventore fugiat impedit alias architecto sed?</p>
+        </center>
+        <hr>
+        <center>
+        <h1>Contact</h1>
+        <h2>+91 8868723105 | eventcollab@gmail.com </h2>
+        <p>9th Street Aveneue Park Trichy-14</p>
+        </center>
+    </body>
+</html>
+
